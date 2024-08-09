@@ -82,5 +82,173 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD89AFA2-75EB-420C-A878-E247A2F22C65"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTechniqueTests/Data/ContactRepositoryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "testGetContactsSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96609320-FE85-4ABB-8E0D-BE3FF0D74E70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTechniqueTests/Data/ContactRepositoryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "testGetContactsSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9913B829-FB8A-4AFE-B5AE-F22A9B2EA215"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTechniqueTests/Data/ContactRepositoryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "testGetContactsSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9913B829-FB8A-4AFE-B5AE-F22A9B2EA215 - f092d4b97b258ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TestTechniqueTests.ContactRepositoryTests.testGetContactsSuccess() async throws -&gt; ()"
+                  moduleName = "TestTechniqueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rayanmehdi/Documents/Dev/TestTechnique/TestTechniqueTests/Data/ContactRepositoryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "9913B829-FB8A-4AFE-B5AE-F22A9B2EA215 - dcf95e7146ade1c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for TestTechniqueTests.ContactRepositoryTests.testGetContactsSuccess() async throws -&gt; ()"
+                  moduleName = "TestTechniqueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rayanmehdi/Documents/Dev/TestTechnique/TestTechniqueTests/Data/ContactRepositoryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "9913B829-FB8A-4AFE-B5AE-F22A9B2EA215 - 640001051d4256cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TestTechniqueTests.ContactRepositoryTests.testGetContactsSuccess() async throws -&gt; ()"
+                  moduleName = "TestTechniqueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rayanmehdi/Documents/Dev/TestTechnique/TestTechniqueTests/Data/ContactRepositoryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "9913B829-FB8A-4AFE-B5AE-F22A9B2EA215 - 43ad439e7a84bccc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for TestTechniqueTests.ContactRepositoryTests.testGetContactsSuccess() async throws -&gt; ()"
+                  moduleName = "TestTechniqueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rayanmehdi/Documents/Dev/TestTechnique/TestTechniqueTests/Data/ContactRepositoryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B8BE853-5558-4EC6-9470-FE52386D7407"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTechniqueTests/Data/ContactRepositoryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "testGetContactsSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B8BE853-5558-4EC6-9470-FE52386D7407 - 99f67d60b79b13f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for TestTechniqueTests.ContactRepositoryTests.testGetContactsSuccess() async throws -&gt; ()"
+                  moduleName = "TestTechniqueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rayanmehdi/Documents/Dev/TestTechnique/TestTechniqueTests/Data/ContactRepositoryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73">
+               </Location>
+               <Location
+                  uuid = "7B8BE853-5558-4EC6-9470-FE52386D7407 - 99f67d60b79b13f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for TestTechniqueTests.ContactRepositoryTests.testGetContactsSuccess() async throws -&gt; ()"
+                  moduleName = "TestTechniqueTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rayanmehdi/Documents/Dev/TestTechnique/TestTechniqueTests/Data/ContactRepositoryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6688F66-9ACA-4C4E-AA3F-55CF38C8D331"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTechniqueTests/Data/ContactRepositoryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "testGetContactsSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

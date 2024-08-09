@@ -73,7 +73,7 @@ final class ContactRepositoryTests: XCTestCase {
         for (savedContact, expectedContact) in zip(mockDatabaseDataSource.savedContacts, expectedContacts) {
             XCTAssertEqual(savedContact.email, expectedContact.email)
             XCTAssertEqual(savedContact.name.first, expectedContact.name.first)
-            XCTAssertEqual(savedContact.location.city, expectedContact.location.city)            
+            XCTAssertEqual(savedContact.location.city, expectedContact.location.city)  
         }
     }
     
