@@ -14,9 +14,7 @@ struct TestTechniqueApp: App {
     
     // MARK: - Initialization
 
-    init() {
-        ValueTransformer.setValueTransformer(LocationTransformer(), forName: LocationTransformer.name)
-            
+    init() {            
         AppEnvironment.default.register()
     }
     
